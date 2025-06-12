@@ -1,0 +1,6 @@
+file -> import spreadsheet:
+1) edges first.
+2) nodes last (and selcted append option!).
+
+
+
